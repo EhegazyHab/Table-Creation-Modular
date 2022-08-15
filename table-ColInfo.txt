@@ -1,0 +1,7 @@
+
+PK:0
+notNuLL:1
+unique:1
+Const:-1
+constVal:
+constCond:-1

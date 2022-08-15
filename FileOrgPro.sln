@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOrgPro", "FileOrgPro\FileOrgPro.csproj", "{9B301E22-9216-43EF-B248-8D5F6E3C4666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B301E22-9216-43EF-B248-8D5F6E3C4666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B301E22-9216-43EF-B248-8D5F6E3C4666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B301E22-9216-43EF-B248-8D5F6E3C4666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B301E22-9216-43EF-B248-8D5F6E3C4666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FBBA7DF-EBAB-4AF4-B7AE-55981860A0C7}
+	EndGlobalSection
+EndGlobal
